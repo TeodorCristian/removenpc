@@ -2,6 +2,9 @@ How to remove FiveM NPC
 
 add this to your server.cfg file
 
+
+
+
 onesync on
 
 onesync_enableInfinity 1
