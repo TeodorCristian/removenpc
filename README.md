@@ -1,0 +1,2 @@
+# removenpc
+FiveM Remove NPC
